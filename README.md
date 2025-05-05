@@ -15,9 +15,11 @@ Proyek ini terdiri dari beberapa modul berbasis Rust yang digunakan untuk melaku
    ```bash
    git clone https://github.com/Aang14/TugasRTC.git
    cd TugasRTC
-2. Code
-3. Pilih Tugas Rtc dan download
-4. bisa dijalankan di vs code masing masing
+2. Code (kanan atas)
+3. pilih codespace
+4. Pilih Tugas Rtc dan klik 2 kali
+5. download 
+6. bisa dijalankan di vs code masing masing
 
 # TugasRTC
 # StrukturProject
