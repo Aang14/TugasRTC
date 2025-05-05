@@ -17,9 +17,10 @@ Proyek ini terdiri dari beberapa modul berbasis Rust yang digunakan untuk melaku
    cd TugasRTC
 2. Code (kanan atas)
 3. pilih codespace
-4. Pilih Tugas Rtc dan klik 2 kali
-5. download 
-6. bisa dijalankan di vs code masing masing
+4. Pilih Tugas Rtc 
+5. sebelah tugasrtc ada titik 3 lalu klik
+6. lalu pilih dijalankan dalam visual studio code
+7. bisa dijalankan di vs code masing masing
 
 # TugasRTC
 # StrukturProject
