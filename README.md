@@ -17,10 +17,11 @@ Proyek ini terdiri dari beberapa modul berbasis Rust yang digunakan untuk melaku
    cd TugasRTC
 2. Code (kanan atas)
 3. pilih codespace
-4. Pilih Tugas Rtc 
-5. sebelah tugasrtc ada titik 3 lalu klik
-6. lalu pilih dijalankan dalam visual studio code
-7. bisa dijalankan di vs code masing masing
+4. atau klik link berikut (https://bookish-giggle-g9wp5wpw6pjhvpwj.github.dev/)
+5. Pilih Tugas Rtc 
+6. sebelah tugasrtc ada titik 3 lalu klik
+7. lalu pilih dijalankan dalam visual studio code
+8. bisa dijalankan di vs code masing masing
 
 # TugasRTC
 # StrukturProject
