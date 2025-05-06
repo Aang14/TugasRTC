@@ -16,12 +16,13 @@ Proyek ini terdiri dari beberapa modul berbasis Rust yang digunakan untuk melaku
    git clone https://github.com/Aang14/TugasRTC.git
    cd TugasRTC
 2. Code (kanan atas)
-3. pilih codespace
-4. atau klik link berikut (https://bookish-giggle-g9wp5wpw6pjhvpwj.github.dev/)
-5. Pilih Tugas Rtc 
-6. sebelah tugasrtc ada titik 3 lalu klik
-7. lalu pilih dijalankan dalam visual studio code
-8. bisa dijalankan di vs code masing masing
+3. atau bisa download di local yang sudah berzip
+5. pilih codespace
+6. atau klik link berikut (https://bookish-giggle-g9wp5wpw6pjhvpwj.github.dev/)
+7. Pilih Tugas Rtc 
+8. sebelah tugasrtc ada titik 3 lalu klik
+9. lalu pilih dijalankan dalam visual studio code
+10. bisa dijalankan di vs code masing masing
 
 # TugasRTC
 # StrukturProject
