@@ -1,9 +1,9 @@
 # TUGASRTC - Sistem Klasifikasi dan Prediksi Tanaman Berbasis Rust
-# SUPERVISOR : Ahmad Radhy, S.Si., M.Si
-# KELOMPOK 1 DEPARTEMEN TEKNIK INSTRUMENTASI - INSTITUT TEKNOLOGI SEPULUH NOPEMBER 
-# 1. AHMAD ZIDAN ANFA'A - 2042221005
-# 2. JEA AYU FATMASARI - 2042221083
-# 3. CHELYA JUNIAR PRASANTI - 2042221128
+## SUPERVISOR : Ahmad Radhy, S.Si., M.Si
+## KELOMPOK 1 DEPARTEMEN TEKNIK INSTRUMENTASI - INSTITUT TEKNOLOGI SEPULUH NOPEMBER 
+## 1. AHMAD ZIDAN ANFA'A - 2042221005
+## 2. JEA AYU FATMASARI - 2042221083
+## 3. CHELYA JUNIAR PRASANTI - 2042221128
 Proyek ini terdiri dari beberapa modul berbasis Rust yang digunakan untuk melakukan klasifikasi tanaman menggunakan algoritma **Neural Network**, **SVM**, dan **k-Nearest Neighbor (kNN)**. Beberapa modul terintegrasi dengan Qt untuk antarmuka pengguna.
 
 ## 🧭 Struktur Proyek
