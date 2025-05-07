@@ -141,5 +141,5 @@ librrary diatas sangat dibutuhkan dalam proses pembuatan neural network & Fronte
 - ketik cargo build --release
 - lalu cargo run
 - maka nnqt siap dilaksanakan
-# TugasRTC
 
+# Terima Kasih selamat mencoba
